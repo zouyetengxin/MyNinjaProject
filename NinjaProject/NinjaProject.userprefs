@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Enemy.cs">
+    <Files>
+      <File FileName="Assets\Award.cs" Line="10" Column="21" />
+      <File FileName="Assets\AudioManager.cs" Line="8" Column="19" />
+      <File FileName="Assets\Enemy.cs" Line="22" Column="9" />
+      <File FileName="Assets\PlayerMove.cs" Line="42" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
